@@ -22,6 +22,8 @@ I'm a skillful Java developer , and have a strong foundation in Core-Java and Ob
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij%20idea&logoColor=white)
 ![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apache%20maven&logoColor=white)
 ![Jakarta EE](https://img.shields.io/badge/JakartaEE-007396?style=for-the-badge&logo=jakarta%20ee&logoColor=white)
+![Spring Framework](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
 
 
 ## Connect with Me
