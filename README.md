@@ -39,4 +39,4 @@ I'm a skillful Java developer , and have a strong foundation in Core-Java and Ob
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrunal-Shah7&layout=compact&theme=blue-green)
 
 ## Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=Mrunal-Shah7&color=purple&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Mrunal-Shah7&style=for-the-badge)
