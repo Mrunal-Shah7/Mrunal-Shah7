@@ -1,7 +1,16 @@
-# Hi there 👋, I'm [Your Name]
+# I'm Mrunal Shah, also go by XENOSTAR7
 
 ## About Me
-I'm a passionate Java developer with a love for creating efficient and scalable software solutions. With a strong foundation in web development and backend systems, I enjoy tackling complex challenges and learning new technologies.
+I'm a skillful Java developer , and have a strong foundation in Core-Java and Object Oriented Programming concepts.
+
+## My Skills
+- C
+- Java
+- JDBC
+- Hibernate
+- Jakarta EE
+
+
 
 ## My Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
